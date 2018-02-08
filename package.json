@@ -1,0 +1,29 @@
+{
+  "name": "react-redux-rest-api",
+  "version": "1.0.0",
+  "description": "library for declarative implementation of rest api service layer in react-redux app using fetch. driven by configs and convention to prevent boilerplate code",
+  "main": "/build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanfazulianov/react-redux-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "react",
+    "redux",
+    "generators",
+    "fetch",
+    "declarative",
+    "configurable"
+  ],
+  "author": "Roman V. Fazulianov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanfazulianov/react-redux-rest-api/issues"
+  },
+  "homepage": "https://github.com/romanfazulianov/react-redux-rest-api#readme"
+}
