@@ -1,6 +1,6 @@
 {
   "name": "react-redux-rest-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "library for declarative implementation of rest api service layer in react-redux app using fetch. driven by configs and convention to prevent boilerplate code",
   "main": "/build/index.js",
   "scripts": {
@@ -22,6 +22,10 @@
   ],
   "author": "Roman V. Fazulianov",
   "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.65.0",
+    "flow-typed": "^2.3.0"
+  },
   "bugs": {
     "url": "https://github.com/romanfazulianov/react-redux-rest-api/issues"
   },
